@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://D:/__Works__/crud_1/.idea/crud_1.iml" filepath="D:/__Works__/crud_1/.idea/crud_1.iml" />
+      <module fileurl="file://D:/__Works__/htdocs/.idea/htdocs.iml" filepath="D:/__Works__/htdocs/.idea/htdocs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/template-crud.iml" filepath="$PROJECT_DIR$/.idea/template-crud.iml" />
+    </modules>
+  </component>
+</project>
